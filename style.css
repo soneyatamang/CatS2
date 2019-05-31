@@ -1,0 +1,14 @@
+img {
+    max-width: 900px;
+    max-height: 900px;
+}
+
+body {
+    background: yellowgreen;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
